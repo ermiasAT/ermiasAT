@@ -3,13 +3,13 @@ Hi, I'm Ermias
 
 I build things and solve problems.
 
---- Methods & Tools ---
+Methods & Tools
 
-• Tokenization, vectorization, semantic representation
+-> Tokenization, vectorization, semantic representation
 
-• Numerical methods, optimization, stochastic modeling
+-> Numerical methods, optimization, stochastic modeling
 
-• Signal analysis, temporal modeling
+-> Signal analysis, temporal modeling
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ErmiasAT&show_icons=true&theme=radical) -->
